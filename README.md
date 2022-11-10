@@ -1,0 +1,2 @@
+# QuickTip
+ Tip calculator
